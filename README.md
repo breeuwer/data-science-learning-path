@@ -1793,6 +1793,7 @@
 
 ### Be able to deploy model to production
 - [X] [Tutorial: Deploying a containerized web application in Kubernetes Engine - GCP](https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app) 
+- [X] [Tutorial: Git-ops style continuous delivery with Cloud build](https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build) 
 - [ ] [Article: Using Statistical Distances for Machine Learning Observability](https://towardsdatascience.com/using-statistical-distance-metrics-for-machine-learning-observability-4c874cded78)
 - [ ] [Article: A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
 - [ ] [Article: Architecting a Machine Learning Pipeline](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
